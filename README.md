@@ -1,11 +1,11 @@
 # Glioblastoma_II
 A set of codes and instructions for a follow-up study from our iScience (2022) results on pediatric glioblastoma.
-Paper is accepted in Interdisciplinary Sciences: Computational Life Sciences (Springer).
+Paper is published in Interdisciplinary Sciences: Computational Life Sciences (Springer):
+Uthamacumaran A. (2025). Cell Fate Dynamics Reconstruction Identifies TPT1 and PTPRZ1 Feedback Loops as Master Regulators of Differentiation in Pediatric Glioblastoma-Immune Cell Networks. Interdisciplinary sciences, computational life sciences, 17(1), 59–85. https://doi.org/10.1007/s12539-024-00657-4
+
 
 To download the pediatric GBM scRNA seq expression counts (.csv) follow instructions from the iScience paper Uthamacumaran and Craig (2022)
 Select all pGBM cells (1943 cells)
-
-The manuscript : https://www.biorxiv.org/content/10.1101/2023.10.03.560663v1 has the links and details of all other codes.
 
 Once you open the ZIP folder with the codes, you will find the following:
 1) Algorithmic K-Complexity Analysis Folder (with all the PID networks results using OACC BDM calculator for the graph network complexity analysis)
